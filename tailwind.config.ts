@@ -25,6 +25,7 @@ export default {
     borderRadius: {
       6: '6px',
       12: '12px',
+      full: '9999px',
     },
   },
   plugins: [],
